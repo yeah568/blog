@@ -1,6 +1,7 @@
 ---
+layout: post
 title: CPSC 121, Easy Mode
-excerpt: A couple tips on making your life easier from a 121 TA.
+summary: A couple tips on making your life easier from a 121 TA.
 tags:
 - ubc
 - university of british columbia
@@ -11,7 +12,7 @@ tags:
 - models of computation
 - vancouver
 ---
-I quite like CPSC 121. I've been TA-ing it for two terms (aka. all the terms where I've been a TA), and I've done my fair share of tutorials and marking for both of them. There's some things I've picked up on as common mistakes during the quality time I've spent with my <span class="strike">failing</span> marking pen, and I want you (yes, you reading this article. Tom.) to be able to avoid these pitfalls. I'm not going to be able to give a summary of all the topics in the course (I'm much too lazy for that), but I'll try to cover the more common mistakes and questions that I get.
+I quite like CPSC 121. I've been TA-ing it for two terms (aka. all the terms where I've been a TA), and I've done my fair share of tutorials and marking for both of them. There's some things I've picked up on as common mistakes during the quality time I've spent with my <span class="strike">failing</span> marking pen, and I want you (yes, you reading this article. Tim.) to be able to avoid these pitfalls. I'm not going to be able to give a summary of all the topics in the course (I'm much too lazy for that), but I'll try to cover the more common mistakes and questions that I get.
 
 If you've been in any of my tutorials, you've likely heard most of these already. Also, you're probably no longer taking this course, so I really don't know why you'd read this, unless you really like my writing or something. Hey, I don't judge.
 
