@@ -1,0 +1,64 @@
+html {
+  font-family: 'Open Sans', sans-serif;
+}
+
+body {
+  background: url('https://jamesliu.ca/assets/img/bg.png');
+  color: #fff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #fff;
+}
+
+.masthead {
+  background: #333339;
+  border-bottom: 0;
+  margin-bottom: 0;
+  padding-bottom: 1rem;
+  width: 100%;
+  position: fixed;
+  z-index: 1;
+}
+
+.sidebar-toggle {
+  z-index: 999;
+}
+
+.wrap {
+  margin-top: 3.5rem;
+}
+
+.content {
+  background: rgba(44,62,80,0.7);
+  padding-top: 2rem;
+  z-index: 0;
+}
+
+img {
+  margin: auto;
+}
+
+img + em {
+  margin: auto;
+  font-size: 0.7rem;
+  display: block;
+  text-align: center;
+}
+
+strong {
+  color: inherit;
+}
+
+tbody tr:nth-child(odd) td, 
+tbody tr:nth-child(odd) th {
+  background-color: #333;
+}
+
+tbody tr:nth-child(even) td, 
+tbody tr:nth-child(even) th {
+  background-color: #333329;
+}
+pre {
+  background-color: inherit;
+}
