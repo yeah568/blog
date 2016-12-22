@@ -19,3 +19,7 @@ author:
 
 # Custom vars
 version:             0.1.0
+
+
+# Gems
+gems: [jekyll-paginate]
