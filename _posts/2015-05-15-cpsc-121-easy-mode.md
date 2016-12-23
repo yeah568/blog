@@ -1,5 +1,4 @@
 ---
-layout: post
 title: CPSC 121, Easy Mode
 summary: A couple tips on making your life easier from a 121 TA.
 tags:
