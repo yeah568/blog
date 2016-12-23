@@ -21,8 +21,10 @@ version:             0.1.0
 
 defaults:
   -
+    scope:
+      path: ""
     values:
-      layout: "blog"
+      layout: "post"
 
 # Gems
 gems: [jekyll-paginate]
